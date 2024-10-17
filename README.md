@@ -33,8 +33,8 @@ This dashboard leverages the power of the MERN (MongoDB, Express, React, Node.js
 
 To get started with the BlackCoffer Visualization Dashboard:
 
-1. Clone this repository: `git clone https://github.com/kvishalll/Data-Visualization-By-Vishu.git`
-2. Navigate to the project directory: `cd Data-Visualization-By-Vishu`
+1. Clone this repository: `git clone https://github.com/kvishalll/Data-Visualization-Dashboard-By-Vishu.git`
+2. Navigate to the project directory: `Data-Visualization-Dashboard-By-Vishu`
 3. Install dependencies:
    - Backend: `cd server && npm install`
    - Frontend: `cd client && npm install`
@@ -44,7 +44,3 @@ To get started with the BlackCoffer Visualization Dashboard:
 
 Open your browser and access the dashboard at [http://localhost:3000](http://localhost:3000).
 
-Feel free to explore the data visualizations and gain valuable insights from your data!
----
-
-If you have any questions or feedback, please don't hesitate to reach out. Happy analyzing!
